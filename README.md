@@ -1,4 +1,4 @@
-# ecommerce_app_ui_kit
+# Flutter Ecommerce App
 
 A new Flutter project.
 
